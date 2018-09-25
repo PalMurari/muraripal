@@ -1,2 +1,3 @@
 # muraripal
-Nothing
+
+<div class="muraripal"></div>
